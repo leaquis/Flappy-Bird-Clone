@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/somVoa.ogg-4f8f4e365a1c4719cb1abee346514a0c.oggstr"
+
+[deps]
+
+source_file="res://Flappy bird/Felpudo Fly/sound/somVoa.ogg"
+dest_files=[ "res://.import/somVoa.ogg-4f8f4e365a1c4719cb1abee346514a0c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
